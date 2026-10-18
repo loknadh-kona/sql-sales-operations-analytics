@@ -7,7 +7,7 @@ Welcome to my SQL Data Analytics Project! This repository is dedicated to extrac
 ### 🔗 The Data Source
 This project represents the analytical phase of my end-to-end data architecture. All queries and reports in this repository are executed against the **Gold Layer** (Fact and Dimension tables) that I built from scratch in my previous project. 
 
-> **View the foundational data architecture here:** > [End-to-End SQL Data Warehouse Project](https://github.com/KrishnaSai315/sql-DataWarehouse_Project) *(This links to the ingestion, transformation, and dimensional modeling of the raw ERP and CRM data).*
+> **View the foundational data architecture here:** > [End-to-End SQL Data Warehouse Project](https://github.com/loknadh-kona/sql-data-warehouse) *(This links to the ingestion, transformation, and dimensional modeling of the raw ERP and CRM data).*
 
 ---
 
@@ -28,7 +28,7 @@ Understanding who the customers are and how they interact with the business.
 * **Behavioral Metrics:** Calculating average order values, average monthly spending, and customer recency.
 
 ### 2. Product Analysis
-Evaluating inventory and catalog performance.
+Evaluating product catalog performance.
 * **Category Performance:** Identifying which product categories and subcategories drive the most revenue.
 * **Profitability & Costs:** Analyzing the average costs and pricing distributions across the product lines.
 * **Performance Ranking:** Utilizing Window Functions to rank the top-performing and worst-performing products.
@@ -83,7 +83,7 @@ Tracking business growth and identifying seasonal patterns.
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/KrishnaSai315/SQL-Data-Analytics/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Why I Built This Project
 While my previous repository focused on the heavy backend engineering of building a Data Warehouse, I developed this project to showcase the other half of the equation: extracting actionable business value. I wanted to demonstrate my ability to step into a Business Intelligence role, write advanced, highly optimized T-SQL, and translate a pristine Star Schema into strategic insights that stakeholders can actually use to drive decisions.
